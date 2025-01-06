@@ -4,9 +4,6 @@ Over the past decade, our company has experienced significant growth, leading to
 # Objective of Analysis:
 The main objective of this analysis was to delve deeply into various aspects such as gender, race, sexuality, diversity, inclusion, hiring trends, and termination patterns within our workforce. By doing so, we aimed to foster a more inclusive, diverse, and equitable workplace environment conducive to growth and productivity.
 
-# Dataset Used:
-[Link to Dataset](https://docs.google.com/spreadsheets/d/1Dg_aczyeCh0izhIrZhVDCfuKqSApjMCV7flxaY6iUnA/edit#gid=423853547)
-
 # Methodology:
 1. Data Preparation: Loaded and transformed data in Power BI, ensuring data integrity and consistency.
 2. Dashboard Design: Created a comprehensive analytics dashboard comprising two sections. The first section focused on demographic insights, inclusiveness, and diversity, while the second section delved into hiring trends and termination patterns.

@@ -7,9 +7,9 @@ The Restaurant Sales Analysis Dashboard on Power BI delivers a comprehensive exa
 The dataset includes a variety of attributes, such as restaurant locations, customer demographics, sales transactions, menu item details, and more. This synthetic dataset is crafted for educational and non-commercial purposes, ensuring privacy compliance. Data cleaning was performed using Microsoft Excel, eliminating incomplete records and irrelevant columns to enhance accuracy and relevance.
 Data Preparation for Analysis using Power BI:
 
-1.Creating Separate Tables: A Date table is established to facilitate time-based analysis, along with a “Calculations” table for KPI measures.
-2.Calculated Columns: New columns like Sales Categories, Customer Segments, and Average Spending Per Visit are generated to enrich the analysis.
-3.KPI Calculations: Critical KPIs, such as Total Revenue, Average Order Value, and Customer Retention Rate, are computed using DAX expressions.
+* Creating Separate Tables: A Date table is established to facilitate time-based analysis, along with a “Calculations” table for KPI measures.
+* Calculated Columns: New columns like Sales Categories, Customer Segments, and Average Spending Per Visit are generated to enrich the analysis.
+* KPI Calculations: Critical KPIs, such as Total Revenue, Average Order Value, and Customer Retention Rate, are computed using DAX expressions.
 
 # Analysis and Visualizations for the Report:
 

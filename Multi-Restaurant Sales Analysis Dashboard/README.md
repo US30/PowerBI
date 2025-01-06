@@ -16,15 +16,21 @@ Data Preparation for Analysis using Power BI:
 The report is structured into three key sections for clarity:
 
 * Sales Trends:
+  
     a.Tracks monthly, quarterly, and annual revenue performance across different restaurant locations.
+  
     b.Identifies best-performing menu items and sales peaks, enabling targeted promotions and inventory planning.
 
 * Customer Insights:
+  
     a.Analyzes customer demographics, spending habits, and visit frequency.
+  
     b.Segments customers into groups such as “Loyal Customers” and “Occasional Visitors” to personalize marketing efforts.
 
 * Operational Metrics:
+  
     a.Monitors key metrics like Table Turnover Rate, Average Service Time, and Employee Performance Ratings.
+  
     b.Aids in optimizing operations and improving the overall dining experience.
 
 # Core Questions Answered in the Restaurant Sales Report:

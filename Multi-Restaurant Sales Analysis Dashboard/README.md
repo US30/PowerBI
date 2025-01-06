@@ -17,43 +17,43 @@ The report is structured into three key sections for clarity:
 
 * Sales Trends:
   
-    a.Tracks monthly, quarterly, and annual revenue performance across different restaurant locations.
+    a. Tracks monthly, quarterly, and annual revenue performance across different restaurant locations.
   
-    b.Identifies best-performing menu items and sales peaks, enabling targeted promotions and inventory planning.
+    b. Identifies best-performing menu items and sales peaks, enabling targeted promotions and inventory planning.
 
 * Customer Insights:
   
-    a.Analyzes customer demographics, spending habits, and visit frequency.
+    a. Analyzes customer demographics, spending habits, and visit frequency.
   
-    b.Segments customers into groups such as “Loyal Customers” and “Occasional Visitors” to personalize marketing efforts.
+    b. Segments customers into groups such as “Loyal Customers” and “Occasional Visitors” to personalize marketing efforts.
 
 * Operational Metrics:
   
-    a.Monitors key metrics like Table Turnover Rate, Average Service Time, and Employee Performance Ratings.
+    a. Monitors key metrics like Table Turnover Rate, Average Service Time, and Employee Performance Ratings.
   
-    b.Aids in optimizing operations and improving the overall dining experience.
+    b. Aids in optimizing operations and improving the overall dining experience.
 
 # Core Questions Answered in the Restaurant Sales Report:
 
 This dashboard provides valuable insights to empower restaurant managers and stakeholders with data-driven decision-making capabilities. Some of the critical questions addressed include:
 
-                    Which locations generate the most revenue?
-                    The report highlights top-performing restaurant locations, aiding in resource allocation and marketing focus.
+- Which locations generate the most revenue?
+  The report highlights top-performing restaurant locations, aiding in resource allocation and marketing focus.
                 
-                    What are the top-selling menu items?
-                    Insights into menu performance help in understanding customer preferences and optimizing the menu.
+- What are the top-selling menu items?
+  Insights into menu performance help in understanding customer preferences and optimizing the menu.
                 
-                    Who are our most loyal customers?
-                    Identifies high-value customer segments, enabling targeted loyalty programs and engagement strategies.
+- Who are our most loyal customers?
+  Identifies high-value customer segments, enabling targeted loyalty programs and engagement strategies.
                 
-                    What is the average spending per customer?
-                    Tracks spending patterns to inform pricing strategies and identify potential upselling opportunities.
+- What is the average spending per customer?
+  Tracks spending patterns to inform pricing strategies and identify potential upselling opportunities.
                 
-                    When are our busiest hours?
-                    Analyzes time-based trends to optimize staffing schedules and promotional campaigns.
+- When are our busiest hours?
+  Analyzes time-based trends to optimize staffing schedules and promotional campaigns.
                 
-                    How efficient are our operations?
-                    Evaluates service metrics like table turnover and service times, highlighting areas for operational improvements.
+- How efficient are our operations?
+  Evaluates service metrics like table turnover and service times, highlighting areas for operational improvements.
 
 # Additional Considerations:
 

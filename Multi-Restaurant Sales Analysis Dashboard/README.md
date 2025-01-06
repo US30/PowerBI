@@ -7,47 +7,47 @@ The Restaurant Sales Analysis Dashboard on Power BI delivers a comprehensive exa
 The dataset includes a variety of attributes, such as restaurant locations, customer demographics, sales transactions, menu item details, and more. This synthetic dataset is crafted for educational and non-commercial purposes, ensuring privacy compliance. Data cleaning was performed using Microsoft Excel, eliminating incomplete records and irrelevant columns to enhance accuracy and relevance.
 Data Preparation for Analysis using Power BI:
 
-    Creating Separate Tables: A Date table is established to facilitate time-based analysis, along with a “Calculations” table for KPI measures.
-    Calculated Columns: New columns like Sales Categories, Customer Segments, and Average Spending Per Visit are generated to enrich the analysis.
-    KPI Calculations: Critical KPIs, such as Total Revenue, Average Order Value, and Customer Retention Rate, are computed using DAX expressions.
+1.Creating Separate Tables: A Date table is established to facilitate time-based analysis, along with a “Calculations” table for KPI measures.
+2.Calculated Columns: New columns like Sales Categories, Customer Segments, and Average Spending Per Visit are generated to enrich the analysis.
+3.KPI Calculations: Critical KPIs, such as Total Revenue, Average Order Value, and Customer Retention Rate, are computed using DAX expressions.
 
 # Analysis and Visualizations for the Report:
 
 The report is structured into three key sections for clarity:
 
-    Sales Trends:
-        Tracks monthly, quarterly, and annual revenue performance across different restaurant locations.
-        Identifies best-performing menu items and sales peaks, enabling targeted promotions and inventory planning.
+1.Sales Trends:
+    a.Tracks monthly, quarterly, and annual revenue performance across different restaurant locations.
+    b.Identifies best-performing menu items and sales peaks, enabling targeted promotions and inventory planning.
 
-    Customer Insights:
-        Analyzes customer demographics, spending habits, and visit frequency.
-        Segments customers into groups such as “Loyal Customers” and “Occasional Visitors” to personalize marketing efforts.
+2.Customer Insights:
+    a.Analyzes customer demographics, spending habits, and visit frequency.
+    b.Segments customers into groups such as “Loyal Customers” and “Occasional Visitors” to personalize marketing efforts.
 
-    Operational Metrics:
-        Monitors key metrics like Table Turnover Rate, Average Service Time, and Employee Performance Ratings.
-        Aids in optimizing operations and improving the overall dining experience.
+3.Operational Metrics:
+    a.Monitors key metrics like Table Turnover Rate, Average Service Time, and Employee Performance Ratings.
+    b.Aids in optimizing operations and improving the overall dining experience.
 
 # Core Questions Answered in the Restaurant Sales Report:
 
 This dashboard provides valuable insights to empower restaurant managers and stakeholders with data-driven decision-making capabilities. Some of the critical questions addressed include:
 
-    Which locations generate the most revenue?
-    The report highlights top-performing restaurant locations, aiding in resource allocation and marketing focus.
-
-    What are the top-selling menu items?
-    Insights into menu performance help in understanding customer preferences and optimizing the menu.
-
-    Who are our most loyal customers?
-    Identifies high-value customer segments, enabling targeted loyalty programs and engagement strategies.
-
-    What is the average spending per customer?
-    Tracks spending patterns to inform pricing strategies and identify potential upselling opportunities.
-
-    When are our busiest hours?
-    Analyzes time-based trends to optimize staffing schedules and promotional campaigns.
-
-    How efficient are our operations?
-    Evaluates service metrics like table turnover and service times, highlighting areas for operational improvements.
+                    Which locations generate the most revenue?
+                    The report highlights top-performing restaurant locations, aiding in resource allocation and marketing focus.
+                
+                    What are the top-selling menu items?
+                    Insights into menu performance help in understanding customer preferences and optimizing the menu.
+                
+                    Who are our most loyal customers?
+                    Identifies high-value customer segments, enabling targeted loyalty programs and engagement strategies.
+                
+                    What is the average spending per customer?
+                    Tracks spending patterns to inform pricing strategies and identify potential upselling opportunities.
+                
+                    When are our busiest hours?
+                    Analyzes time-based trends to optimize staffing schedules and promotional campaigns.
+                
+                    How efficient are our operations?
+                    Evaluates service metrics like table turnover and service times, highlighting areas for operational improvements.
 
 # Additional Considerations:
 

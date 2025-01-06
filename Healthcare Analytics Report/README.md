@@ -10,23 +10,6 @@ The dataset comprises various attributes including patient demographics, medical
 * Creating Calculated Columns: New calculated columns such as Age Buckets, Readmission Indicator, and Total Stay Duration are generated to facilitate analysis and visualization.
 *Creating Measurements for KPIs: Various KPIs are calculated using DAX expressions, including Readmission Count, Readmission Rate, and other pertinent metrics.
 
-# Analysis and Visualizations for the Report: 
-The report is structured into two sections for clarity:
-
-1. Patients Demographics:
-
-Reveals insights into the patient population demographics, including age distribution, gender distribution, and prevalent medical conditions.
-Provides actionable insights for tailoring care approaches to specific patient groups, optimizing resource allocation, and improving overall patient satisfaction.
-
-![Patient Demographics](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/c6671fb9-e0ef-472d-b2ff-39aefc97ef2e)
-
-2. Clinical Insights:
-
-Unveils critical medical trends and insights, including common admission types, prevalent health concerns, treatment efficacy, and cost management insights.
-Empowers healthcare providers to identify areas for improvement, target interventions, and enhance treatment efficacy while managing costs effectively.
-
-![Clinical Insights](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/9ca395e8-f7cf-4fc3-a124-40112512a347)
-
 # Core Questions Answered in the Healthcare Analytics Report:
 This Power BI report provides a comprehensive analysis of patient health data, empowering healthcare providers with data-driven insights to optimize patient care. By leveraging DAX calculations and data visualizations, the report tackles critical questions regarding the patient population and recent medical trends within the specified timeframe (October 2018 — December 2023).
 

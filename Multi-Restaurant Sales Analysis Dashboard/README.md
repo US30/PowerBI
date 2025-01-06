@@ -38,21 +38,27 @@ The report is structured into three key sections for clarity:
 This dashboard provides valuable insights to empower restaurant managers and stakeholders with data-driven decision-making capabilities. Some of the critical questions addressed include:
 
 - Which locations generate the most revenue?
+  
   The report highlights top-performing restaurant locations, aiding in resource allocation and marketing focus.
                 
 - What are the top-selling menu items?
+  
   Insights into menu performance help in understanding customer preferences and optimizing the menu.
                 
 - Who are our most loyal customers?
+  
   Identifies high-value customer segments, enabling targeted loyalty programs and engagement strategies.
                 
 - What is the average spending per customer?
+  
   Tracks spending patterns to inform pricing strategies and identify potential upselling opportunities.
                 
 - When are our busiest hours?
+  
   Analyzes time-based trends to optimize staffing schedules and promotional campaigns.
                 
 - How efficient are our operations?
+  
   Evaluates service metrics like table turnover and service times, highlighting areas for operational improvements.
 
 # Additional Considerations:
